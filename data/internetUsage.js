@@ -3,7 +3,7 @@ const fs = require('fs');
 
 d3.queue()
     .defer(d3.json, "file:world-110m.v1.json")
-    .defer(d3.csv, "file:worldbank_popular_2014.csv")
+    .defer(d3.csv, "file:worldbank_popular_2017.csv")
     .defer(d3.csv, "file:iso-mapping.csv")
     .await(function (error, topoData, worldbank, mapping) {
 
@@ -16,13 +16,13 @@ d3.queue()
         // convert to array with country and the correct code
         var inetData = worldbank
             .filter(function (d) {
-                return d["Series Code"] === 'IT.NET.USER.P2'
+                return d["Series Code"] === 'IT.NET.USER.ZS'
             })
             .map(function (d) {
                 return {
                     countryA: d['Country Code'],
                     countryN: isoKV[d['Country Code']],
-                    value: d['2014 [YR2014]'],
+                    value: d['2017 [YR2017]'],
                     name: d['Country Name']
                 }
             });
