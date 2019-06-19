@@ -1,0 +1,9170 @@
+[
+ {
+   "name": "Australia",
+   "value": 29.07153729,
+   "year": 2014.08,
+   "lastValue": "31.0694374",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.67310625,
+   "year": 2014.15,
+   "lastValue": "29.07153729",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.98982188,
+   "year": 2014.23,
+   "lastValue": "28.67310625",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.08358818,
+   "year": 2014.31,
+   "lastValue": "27.98982188",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.61522739,
+   "year": 2014.38,
+   "lastValue": "28.08358818",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.54946181,
+   "year": 2014.46,
+   "lastValue": "28.61522739",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.76219825,
+   "year": 2014.54,
+   "lastValue": "28.54946181",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 29.98454405,
+   "year": 2014.62,
+   "lastValue": "28.76219825",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.35703246,
+   "year": 2014.69,
+   "lastValue": "29.98454405",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.3510036,
+   "year": 2014.77,
+   "lastValue": "27.35703246",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.97841727,
+   "year": 2014.85,
+   "lastValue": "26.3510036",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.39866598,
+   "year": 2014.92,
+   "lastValue": "26.97841727",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.31541219,
+   "year": 2015.08,
+   "lastValue": "27.39866598",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.7244898,
+   "year": 2015.15,
+   "lastValue": "28.31541219",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.20121951,
+   "year": 2015.23,
+   "lastValue": "28.7244898",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.54251012,
+   "year": 2015.31,
+   "lastValue": "28.20121951",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.1470292,
+   "year": 2015.38,
+   "lastValue": "28.54251012",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.91395698,
+   "year": 2015.46,
+   "lastValue": "28.1470292",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.79711586,
+   "year": 2015.54,
+   "lastValue": "27.91395698",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.64067127,
+   "year": 2015.62,
+   "lastValue": "27.79711586",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.81017613,
+   "year": 2015.69,
+   "lastValue": "27.64067127",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.25509214,
+   "year": 2015.77,
+   "lastValue": "26.81017613",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.64426308,
+   "year": 2015.85,
+   "lastValue": "27.25509214",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.53061224,
+   "year": 2015.92,
+   "lastValue": "26.64426308",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.11940299,
+   "year": 2016.08,
+   "lastValue": "26.53061224",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.96330275,
+   "year": 2016.15,
+   "lastValue": "26.11940299",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.30144404,
+   "year": 2016.23,
+   "lastValue": "25.96330275",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.44227353,
+   "year": 2016.31,
+   "lastValue": "27.30144404",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.72489083,
+   "year": 2016.38,
+   "lastValue": "27.44227353",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.30785745,
+   "year": 2016.46,
+   "lastValue": "26.72489083",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.92262405,
+   "year": 2016.54,
+   "lastValue": "27.30785745",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.55354201,
+   "year": 2016.62,
+   "lastValue": "27.92262405",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 28.16161616,
+   "year": 2016.69,
+   "lastValue": "27.55354201",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.59714512,
+   "year": 2016.77,
+   "lastValue": "28.16161616",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.48151032,
+   "year": 2016.85,
+   "lastValue": "27.59714512",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.94954128,
+   "year": 2016.92,
+   "lastValue": "27.48151032",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.34138973,
+   "year": 2017.08,
+   "lastValue": "26.94954128",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.09966405,
+   "year": 2017.15,
+   "lastValue": "27.34138973",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.36632201,
+   "year": 2017.23,
+   "lastValue": "27.09966405",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.71219869,
+   "year": 2017.31,
+   "lastValue": "26.36632201",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.75867052,
+   "year": 2017.38,
+   "lastValue": "25.71219869",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.03576538,
+   "year": 2017.46,
+   "lastValue": "25.75867052",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.0533049,
+   "year": 2017.54,
+   "lastValue": "25.03576538",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.77907388,
+   "year": 2017.62,
+   "lastValue": "25.0533049",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.82419128,
+   "year": 2017.69,
+   "lastValue": "24.77907388",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.83385799,
+   "year": 2017.77,
+   "lastValue": "24.82419128",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.83455242,
+   "year": 2017.85,
+   "lastValue": "24.83385799",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.50312283,
+   "year": 2017.92,
+   "lastValue": "24.83455242",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.97409326,
+   "year": 2018.08,
+   "lastValue": "25.50312283",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.81952561,
+   "year": 2018.15,
+   "lastValue": "24.97409326",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.13679891,
+   "year": 2018.23,
+   "lastValue": "24.81952561",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.03401361,
+   "year": 2018.31,
+   "lastValue": "25.13679891",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.18593644,
+   "year": 2018.38,
+   "lastValue": "25.03401361",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.86496473,
+   "year": 2018.46,
+   "lastValue": "25.18593644",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 24.99168053,
+   "year": 2018.54,
+   "lastValue": "25.86496473",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.04943968,
+   "year": 2018.62,
+   "lastValue": "24.99168053",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 25.4978779,
+   "year": 2018.69,
+   "lastValue": "25.04943968",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.05177994,
+   "year": 2018.77,
+   "lastValue": "25.4978779",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.07440667,
+   "year": 2018.85,
+   "lastValue": "26.05177994",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.32750397,
+   "year": 2018.92,
+   "lastValue": "26.07440667",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 26.99715819,
+   "year": 2019.08,
+   "lastValue": "26.32750397",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.21003135,
+   "year": 2019.15,
+   "lastValue": "26.99715819",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.30386052,
+   "year": 2019.23,
+   "lastValue": "27.21003135",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.22772277,
+   "year": 2019.31,
+   "lastValue": "27.30386052",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Australia",
+   "value": 27.01538462,
+   "year": 2019.38,
+   "lastValue": "27.22772277",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2015.54,
+   "lastValue": null,
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2015.62,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2015.69,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2015.77,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2015.85,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2015.92,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.08,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.15,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.23,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.31,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.38,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.46,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.54,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.62,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.69,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2016.77,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 6.666666667,
+   "year": 2016.85,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 6.25,
+   "year": 2016.92,
+   "lastValue": "6.666666667",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 6.25,
+   "year": 2017.08,
+   "lastValue": "6.25",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 5.882352941,
+   "year": 2017.15,
+   "lastValue": "6.25",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 5.882352941,
+   "year": 2017.23,
+   "lastValue": "5.882352941",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 11.11111111,
+   "year": 2017.31,
+   "lastValue": "5.882352941",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 11.11111111,
+   "year": 2017.38,
+   "lastValue": "11.11111111",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 10.52631579,
+   "year": 2017.46,
+   "lastValue": "11.11111111",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 15.78947368,
+   "year": 2017.54,
+   "lastValue": "10.52631579",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 15.78947368,
+   "year": 2017.62,
+   "lastValue": "15.78947368",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 21.05263158,
+   "year": 2017.69,
+   "lastValue": "15.78947368",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 22.22222222,
+   "year": 2017.77,
+   "lastValue": "21.05263158",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 16.66666667,
+   "year": 2017.85,
+   "lastValue": "22.22222222",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 16.66666667,
+   "year": 2017.92,
+   "lastValue": "16.66666667",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 16.66666667,
+   "year": 2018.08,
+   "lastValue": "16.66666667",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 16.66666667,
+   "year": 2018.15,
+   "lastValue": "16.66666667",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 16.66666667,
+   "year": 2018.23,
+   "lastValue": "16.66666667",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 11.11111111,
+   "year": 2018.31,
+   "lastValue": "16.66666667",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 10.52631579,
+   "year": 2018.38,
+   "lastValue": "11.11111111",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 10.52631579,
+   "year": 2018.46,
+   "lastValue": "10.52631579",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 5.263157895,
+   "year": 2018.54,
+   "lastValue": "10.52631579",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 5.263157895,
+   "year": 2018.62,
+   "lastValue": "5.263157895",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 0,
+   "year": 2018.69,
+   "lastValue": "5.263157895",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 5,
+   "year": 2018.77,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 10,
+   "year": 2018.85,
+   "lastValue": "5",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 10,
+   "year": 2018.92,
+   "lastValue": "10",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 10,
+   "year": 2019.08,
+   "lastValue": "10",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 15,
+   "year": 2019.15,
+   "lastValue": "10",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 15.78947368,
+   "year": 2019.23,
+   "lastValue": "15",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 15.78947368,
+   "year": 2019.31,
+   "lastValue": "15.78947368",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Bangladesh",
+   "value": 26.31578947,
+   "year": 2019.38,
+   "lastValue": "15.78947368",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.29623568,
+   "year": 2014.08,
+   "lastValue": "28.49834983",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.11864957,
+   "year": 2014.15,
+   "lastValue": "29.29623568",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 28.66570095,
+   "year": 2014.23,
+   "lastValue": "29.11864957",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 28.78812071,
+   "year": 2014.31,
+   "lastValue": "28.66570095",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.11192022,
+   "year": 2014.38,
+   "lastValue": "28.78812071",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 28.87390213,
+   "year": 2014.46,
+   "lastValue": "29.11192022",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.41085271,
+   "year": 2014.54,
+   "lastValue": "28.87390213",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.63076452,
+   "year": 2014.62,
+   "lastValue": "29.41085271",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.55508475,
+   "year": 2014.69,
+   "lastValue": "29.63076452",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.55429255,
+   "year": 2014.77,
+   "lastValue": "29.55508475",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.77087953,
+   "year": 2014.85,
+   "lastValue": "29.55429255",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.5971979,
+   "year": 2014.92,
+   "lastValue": "29.77087953",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 28.68876081,
+   "year": 2015.08,
+   "lastValue": "29.5971979",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 28.50633632,
+   "year": 2015.15,
+   "lastValue": "28.68876081",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 27.82853127,
+   "year": 2015.23,
+   "lastValue": "28.50633632",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 27.93404462,
+   "year": 2015.31,
+   "lastValue": "27.82853127",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 28.19039803,
+   "year": 2015.38,
+   "lastValue": "27.93404462",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.22183194,
+   "year": 2015.46,
+   "lastValue": "28.19039803",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.01201602,
+   "year": 2015.54,
+   "lastValue": "29.22183194",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.42495384,
+   "year": 2015.62,
+   "lastValue": "29.01201602",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.97133177,
+   "year": 2015.69,
+   "lastValue": "29.42495384",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 30.06561173,
+   "year": 2015.77,
+   "lastValue": "29.97133177",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 29.64747654,
+   "year": 2015.85,
+   "lastValue": "30.06561173",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 30.4152076,
+   "year": 2015.92,
+   "lastValue": "29.64747654",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 31.0046902,
+   "year": 2016.08,
+   "lastValue": "30.4152076",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 32.19595418,
+   "year": 2016.15,
+   "lastValue": "31.0046902",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 33.22910403,
+   "year": 2016.23,
+   "lastValue": "32.19595418",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.60944002,
+   "year": 2016.31,
+   "lastValue": "33.22910403",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.1789993,
+   "year": 2016.38,
+   "lastValue": "34.60944002",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 33.85470977,
+   "year": 2016.46,
+   "lastValue": "34.1789993",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.01166114,
+   "year": 2016.54,
+   "lastValue": "33.85470977",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 33.82933153,
+   "year": 2016.62,
+   "lastValue": "34.01166114",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 33.8668445,
+   "year": 2016.69,
+   "lastValue": "33.82933153",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 33.88157895,
+   "year": 2016.77,
+   "lastValue": "33.8668445",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.26808142,
+   "year": 2016.85,
+   "lastValue": "33.88157895",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.08532022,
+   "year": 2016.92,
+   "lastValue": "34.26808142",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.13552882,
+   "year": 2017.08,
+   "lastValue": "34.08532022",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 34.14557951,
+   "year": 2017.15,
+   "lastValue": "34.13552882",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 35.03034043,
+   "year": 2017.23,
+   "lastValue": "34.14557951",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 35.00558546,
+   "year": 2017.31,
+   "lastValue": "35.03034043",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 35.75873143,
+   "year": 2017.38,
+   "lastValue": "35.00558546",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 36.28511863,
+   "year": 2017.46,
+   "lastValue": "35.75873143",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 37.61070655,
+   "year": 2017.54,
+   "lastValue": "36.28511863",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 38.58398438,
+   "year": 2017.62,
+   "lastValue": "37.61070655",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 39.28848391,
+   "year": 2017.69,
+   "lastValue": "38.58398438",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 39.22285275,
+   "year": 2017.77,
+   "lastValue": "39.28848391",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 40.91387057,
+   "year": 2017.85,
+   "lastValue": "39.22285275",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 40.93889575,
+   "year": 2017.92,
+   "lastValue": "40.91387057",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 41.27599244,
+   "year": 2018.08,
+   "lastValue": "40.93889575",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 41.01091867,
+   "year": 2018.15,
+   "lastValue": "41.27599244",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 41.17426374,
+   "year": 2018.23,
+   "lastValue": "41.01091867",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 41.32324082,
+   "year": 2018.31,
+   "lastValue": "41.17426374",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 40.91374337,
+   "year": 2018.38,
+   "lastValue": "41.32324082",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 40.97859327,
+   "year": 2018.46,
+   "lastValue": "40.91374337",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 40.32823161,
+   "year": 2018.54,
+   "lastValue": "40.97859327",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 40.40737682,
+   "year": 2018.62,
+   "lastValue": "40.32823161",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 39.61661342,
+   "year": 2018.69,
+   "lastValue": "40.40737682",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 39.60566963,
+   "year": 2018.77,
+   "lastValue": "39.61661342",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 37.72032902,
+   "year": 2018.85,
+   "lastValue": "39.60566963",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 38.94793731,
+   "year": 2018.92,
+   "lastValue": "37.72032902",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 37.78735632,
+   "year": 2019.08,
+   "lastValue": "38.94793731",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 37.81678159,
+   "year": 2019.15,
+   "lastValue": "37.78735632",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 37.84362728,
+   "year": 2019.23,
+   "lastValue": "37.81678159",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 36.91842363,
+   "year": 2019.31,
+   "lastValue": "37.84362728",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "China (Mainland)",
+   "value": 35.94429167,
+   "year": 2019.38,
+   "lastValue": "36.91842363",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.9554743,
+   "year": 2014.08,
+   "lastValue": "42.67737036",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.34754797,
+   "year": 2014.15,
+   "lastValue": "42.9554743",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.82397636,
+   "year": 2014.23,
+   "lastValue": "43.34754797",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.75876461,
+   "year": 2014.31,
+   "lastValue": "42.82397636",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 44.69931804,
+   "year": 2014.38,
+   "lastValue": "42.75876461",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 45.14940647,
+   "year": 2014.46,
+   "lastValue": "44.69931804",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 45.92893401,
+   "year": 2014.54,
+   "lastValue": "45.14940647",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 46.04866278,
+   "year": 2014.62,
+   "lastValue": "45.92893401",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 45.52327895,
+   "year": 2014.69,
+   "lastValue": "46.04866278",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 46.20689655,
+   "year": 2014.77,
+   "lastValue": "45.52327895",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 46.56652361,
+   "year": 2014.85,
+   "lastValue": "46.20689655",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.39080015,
+   "year": 2014.92,
+   "lastValue": "46.56652361",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 48.30427285,
+   "year": 2015.08,
+   "lastValue": "47.39080015",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.16945289,
+   "year": 2015.15,
+   "lastValue": "48.30427285",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.5570647,
+   "year": 2015.23,
+   "lastValue": "47.16945289",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 48.13425839,
+   "year": 2015.31,
+   "lastValue": "47.5570647",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.29780097,
+   "year": 2015.38,
+   "lastValue": "48.13425839",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 46.91723755,
+   "year": 2015.46,
+   "lastValue": "47.29780097",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.353914,
+   "year": 2015.54,
+   "lastValue": "46.91723755",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 46.69708029,
+   "year": 2015.62,
+   "lastValue": "47.353914",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.16434137,
+   "year": 2015.69,
+   "lastValue": "46.69708029",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 47.34569012,
+   "year": 2015.77,
+   "lastValue": "47.16434137",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 46.61425764,
+   "year": 2015.85,
+   "lastValue": "47.34569012",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 45.17271922,
+   "year": 2015.92,
+   "lastValue": "46.61425764",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.96702911,
+   "year": 2016.08,
+   "lastValue": "45.17271922",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 44.29017702,
+   "year": 2016.15,
+   "lastValue": "43.96702911",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.79712132,
+   "year": 2016.23,
+   "lastValue": "44.29017702",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.92302498,
+   "year": 2016.31,
+   "lastValue": "43.79712132",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.08280678,
+   "year": 2016.38,
+   "lastValue": "43.92302498",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.69331586,
+   "year": 2016.46,
+   "lastValue": "43.08280678",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.54159922,
+   "year": 2016.54,
+   "lastValue": "42.69331586",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.70299248,
+   "year": 2016.62,
+   "lastValue": "43.54159922",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 43.27790974,
+   "year": 2016.69,
+   "lastValue": "43.70299248",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.38057948,
+   "year": 2016.77,
+   "lastValue": "43.27790974",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.25526642,
+   "year": 2016.85,
+   "lastValue": "42.38057948",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.2835249,
+   "year": 2016.92,
+   "lastValue": "42.25526642",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.39344262,
+   "year": 2017.08,
+   "lastValue": "42.2835249",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.59651233,
+   "year": 2017.15,
+   "lastValue": "41.39344262",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 42.30080573,
+   "year": 2017.23,
+   "lastValue": "41.59651233",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.38851802,
+   "year": 2017.31,
+   "lastValue": "42.30080573",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.28575641,
+   "year": 2017.38,
+   "lastValue": "41.38851802",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.7949846,
+   "year": 2017.46,
+   "lastValue": "41.28575641",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.73780044,
+   "year": 2017.54,
+   "lastValue": "41.7949846",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.15558126,
+   "year": 2017.62,
+   "lastValue": "39.73780044",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.20470858,
+   "year": 2017.69,
+   "lastValue": "39.15558126",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.42115768,
+   "year": 2017.77,
+   "lastValue": "39.20470858",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.52367451,
+   "year": 2017.85,
+   "lastValue": "39.42115768",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.28621808,
+   "year": 2017.92,
+   "lastValue": "39.52367451",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.42752911,
+   "year": 2018.08,
+   "lastValue": "39.28621808",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 38.22749477,
+   "year": 2018.15,
+   "lastValue": "39.42752911",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 38.42734093,
+   "year": 2018.23,
+   "lastValue": "38.22749477",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.197787,
+   "year": 2018.31,
+   "lastValue": "38.42734093",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.30882555,
+   "year": 2018.38,
+   "lastValue": "39.197787",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.38895739,
+   "year": 2018.46,
+   "lastValue": "39.30882555",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 40.28610354,
+   "year": 2018.54,
+   "lastValue": "39.38895739",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.41578519,
+   "year": 2018.62,
+   "lastValue": "40.28610354",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 41.04397087,
+   "year": 2018.69,
+   "lastValue": "41.41578519",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 39.35129339,
+   "year": 2018.77,
+   "lastValue": "41.04397087",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 37.86265637,
+   "year": 2018.85,
+   "lastValue": "39.35129339",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 36.81013995,
+   "year": 2018.92,
+   "lastValue": "37.86265637",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 35.6899712,
+   "year": 2019.08,
+   "lastValue": "36.81013995",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 35.39340431,
+   "year": 2019.15,
+   "lastValue": "35.6899712",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 31.79250128,
+   "year": 2019.23,
+   "lastValue": "35.39340431",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 29.00443881,
+   "year": 2019.31,
+   "lastValue": "31.79250128",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Hong Kong SAR, China",
+   "value": 26.75191175,
+   "year": 2019.38,
+   "lastValue": "29.00443881",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.74322169,
+   "year": 2014.08,
+   "lastValue": "32.91835085",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.58851298,
+   "year": 2014.15,
+   "lastValue": "32.74322169",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.67111594,
+   "year": 2014.23,
+   "lastValue": "32.58851298",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.68635875,
+   "year": 2014.31,
+   "lastValue": "32.67111594",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.2897012,
+   "year": 2014.38,
+   "lastValue": "31.68635875",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.04497751,
+   "year": 2014.46,
+   "lastValue": "30.2897012",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.96143578,
+   "year": 2014.54,
+   "lastValue": "30.04497751",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.83279554,
+   "year": 2014.62,
+   "lastValue": "29.96143578",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.04347826,
+   "year": 2014.69,
+   "lastValue": "29.83279554",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.17204764,
+   "year": 2014.77,
+   "lastValue": "29.04347826",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.88857265,
+   "year": 2014.85,
+   "lastValue": "29.17204764",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.13501274,
+   "year": 2014.92,
+   "lastValue": "28.88857265",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.92290377,
+   "year": 2015.08,
+   "lastValue": "31.13501274",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.55633212,
+   "year": 2015.15,
+   "lastValue": "30.92290377",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.18488679,
+   "year": 2015.23,
+   "lastValue": "30.55633212",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.96222774,
+   "year": 2015.31,
+   "lastValue": "31.18488679",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.76100629,
+   "year": 2015.38,
+   "lastValue": "30.96222774",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.62671001,
+   "year": 2015.46,
+   "lastValue": "31.76100629",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.68834652,
+   "year": 2015.54,
+   "lastValue": "31.62671001",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.15139442,
+   "year": 2015.62,
+   "lastValue": "31.68834652",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.33824303,
+   "year": 2015.69,
+   "lastValue": "32.15139442",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.15773035,
+   "year": 2015.77,
+   "lastValue": "32.33824303",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 32.17413704,
+   "year": 2015.85,
+   "lastValue": "32.15773035",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.56654379,
+   "year": 2015.92,
+   "lastValue": "32.17413704",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.41397917,
+   "year": 2016.08,
+   "lastValue": "29.56654379",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.30094199,
+   "year": 2016.15,
+   "lastValue": "29.41397917",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.30234834,
+   "year": 2016.23,
+   "lastValue": "29.30094199",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.77871826,
+   "year": 2016.31,
+   "lastValue": "28.30234834",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.48426845,
+   "year": 2016.38,
+   "lastValue": "28.77871826",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.17901965,
+   "year": 2016.46,
+   "lastValue": "28.48426845",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.58986391,
+   "year": 2016.54,
+   "lastValue": "28.17901965",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.1929111,
+   "year": 2016.62,
+   "lastValue": "28.58986391",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.59119207,
+   "year": 2016.69,
+   "lastValue": "28.1929111",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.61556064,
+   "year": 2016.77,
+   "lastValue": "28.59119207",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.8317417,
+   "year": 2016.85,
+   "lastValue": "28.61556064",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.4647744,
+   "year": 2016.92,
+   "lastValue": "29.8317417",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.02696023,
+   "year": 2017.08,
+   "lastValue": "30.4647744",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.74902398,
+   "year": 2017.15,
+   "lastValue": "30.02696023",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.10418976,
+   "year": 2017.23,
+   "lastValue": "29.74902398",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.45472593,
+   "year": 2017.31,
+   "lastValue": "30.10418976",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.08063631,
+   "year": 2017.38,
+   "lastValue": "31.45472593",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.19676785,
+   "year": 2017.46,
+   "lastValue": "31.08063631",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.9272747,
+   "year": 2017.54,
+   "lastValue": "31.19676785",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.04008667,
+   "year": 2017.62,
+   "lastValue": "30.9272747",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 30.83900227,
+   "year": 2017.69,
+   "lastValue": "31.04008667",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 31.01926596,
+   "year": 2017.77,
+   "lastValue": "30.83900227",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.70106075,
+   "year": 2017.85,
+   "lastValue": "31.01926596",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.16711102,
+   "year": 2017.92,
+   "lastValue": "29.70106075",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.23125929,
+   "year": 2018.08,
+   "lastValue": "29.16711102",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 29.379427,
+   "year": 2018.15,
+   "lastValue": "29.23125929",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.94570707,
+   "year": 2018.23,
+   "lastValue": "29.379427",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 27.52379956,
+   "year": 2018.31,
+   "lastValue": "28.94570707",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 27.56363636,
+   "year": 2018.38,
+   "lastValue": "27.52379956",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.201424,
+   "year": 2018.46,
+   "lastValue": "27.56363636",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 27.35182721,
+   "year": 2018.54,
+   "lastValue": "28.201424",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 26.62745893,
+   "year": 2018.62,
+   "lastValue": "27.35182721",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 26.20959647,
+   "year": 2018.69,
+   "lastValue": "26.62745893",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 25.88948519,
+   "year": 2018.77,
+   "lastValue": "26.20959647",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 26.03183962,
+   "year": 2018.85,
+   "lastValue": "25.88948519",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 26.86697783,
+   "year": 2018.92,
+   "lastValue": "26.03183962",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 27.41811175,
+   "year": 2019.08,
+   "lastValue": "26.86697783",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 27.52267303,
+   "year": 2019.15,
+   "lastValue": "27.41811175",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.57819456,
+   "year": 2019.23,
+   "lastValue": "27.52267303",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.31783601,
+   "year": 2019.31,
+   "lastValue": "28.57819456",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "India",
+   "value": 28.17622951,
+   "year": 2019.38,
+   "lastValue": "28.31783601",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 32.04747774,
+   "year": 2014.08,
+   "lastValue": "33.03303303",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.61876833,
+   "year": 2014.15,
+   "lastValue": "32.04747774",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.19075145,
+   "year": 2014.23,
+   "lastValue": "29.61876833",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 28.85714286,
+   "year": 2014.31,
+   "lastValue": "29.19075145",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.47875354,
+   "year": 2014.38,
+   "lastValue": "28.85714286",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.8907563,
+   "year": 2014.46,
+   "lastValue": "27.47875354",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 25.76177285,
+   "year": 2014.54,
+   "lastValue": "26.8907563",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 25.95628415,
+   "year": 2014.62,
+   "lastValue": "25.76177285",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 24.79784367,
+   "year": 2014.69,
+   "lastValue": "25.95628415",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.5862069,
+   "year": 2014.77,
+   "lastValue": "24.79784367",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.84293194,
+   "year": 2014.85,
+   "lastValue": "27.5862069",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.23255814,
+   "year": 2014.92,
+   "lastValue": "29.84293194",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.6122449,
+   "year": 2015.08,
+   "lastValue": "30.23255814",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.73047859,
+   "year": 2015.15,
+   "lastValue": "30.6122449",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.92269327,
+   "year": 2015.23,
+   "lastValue": "30.73047859",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.23832924,
+   "year": 2015.31,
+   "lastValue": "30.92269327",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.09708738,
+   "year": 2015.38,
+   "lastValue": "29.23832924",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 31.33971292,
+   "year": 2015.46,
+   "lastValue": "30.09708738",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 32.38770686,
+   "year": 2015.54,
+   "lastValue": "31.33971292",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.37062937,
+   "year": 2015.62,
+   "lastValue": "32.38770686",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.33025404,
+   "year": 2015.69,
+   "lastValue": "29.37062937",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.06422018,
+   "year": 2015.77,
+   "lastValue": "29.33025404",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.59090909,
+   "year": 2015.85,
+   "lastValue": "27.06422018",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.01809955,
+   "year": 2015.92,
+   "lastValue": "26.59090909",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.29213483,
+   "year": 2016.08,
+   "lastValue": "26.01809955",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.72605791,
+   "year": 2016.15,
+   "lastValue": "26.29213483",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.49006623,
+   "year": 2016.23,
+   "lastValue": "26.72605791",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.07423581,
+   "year": 2016.31,
+   "lastValue": "26.49006623",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 26.83982684,
+   "year": 2016.38,
+   "lastValue": "27.07423581",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 25.05353319,
+   "year": 2016.46,
+   "lastValue": "26.83982684",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 24.36440678,
+   "year": 2016.54,
+   "lastValue": "25.05353319",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 24.375,
+   "year": 2016.62,
+   "lastValue": "24.36440678",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 25.0513347,
+   "year": 2016.69,
+   "lastValue": "24.375",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 24.19354839,
+   "year": 2016.77,
+   "lastValue": "25.0513347",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 23.41269841,
+   "year": 2016.85,
+   "lastValue": "24.19354839",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.59295499,
+   "year": 2016.92,
+   "lastValue": "23.41269841",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.87378641,
+   "year": 2017.08,
+   "lastValue": "27.59295499",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.44315992,
+   "year": 2017.15,
+   "lastValue": "30.87378641",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.50191571,
+   "year": 2017.23,
+   "lastValue": "30.44315992",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 29.19847328,
+   "year": 2017.31,
+   "lastValue": "29.50191571",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 28.27324478,
+   "year": 2017.38,
+   "lastValue": "29.19847328",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 28.16635161,
+   "year": 2017.46,
+   "lastValue": "28.27324478",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 28.24858757,
+   "year": 2017.54,
+   "lastValue": "28.16635161",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 28.86792453,
+   "year": 2017.62,
+   "lastValue": "28.24858757",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.62381853,
+   "year": 2017.69,
+   "lastValue": "28.86792453",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 31.49905123,
+   "year": 2017.77,
+   "lastValue": "30.62381853",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.66666667,
+   "year": 2017.85,
+   "lastValue": "31.49905123",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.42857143,
+   "year": 2017.92,
+   "lastValue": "30.66666667",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 23.76425856,
+   "year": 2018.08,
+   "lastValue": "27.42857143",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 24.7148289,
+   "year": 2018.15,
+   "lastValue": "23.76425856",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 27.04761905,
+   "year": 2018.23,
+   "lastValue": "24.7148289",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 28.48948375,
+   "year": 2018.31,
+   "lastValue": "27.04761905",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 31.59922929,
+   "year": 2018.38,
+   "lastValue": "28.48948375",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 33.39805825,
+   "year": 2018.46,
+   "lastValue": "31.59922929",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 32.6171875,
+   "year": 2018.54,
+   "lastValue": "33.39805825",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 33.07086614,
+   "year": 2018.62,
+   "lastValue": "32.6171875",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 32.27722772,
+   "year": 2018.69,
+   "lastValue": "33.07086614",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 33.93213573,
+   "year": 2018.77,
+   "lastValue": "32.27722772",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 34.60764588,
+   "year": 2018.85,
+   "lastValue": "33.93213573",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 36.51115619,
+   "year": 2018.92,
+   "lastValue": "34.60764588",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 37.98767967,
+   "year": 2019.08,
+   "lastValue": "36.51115619",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 36.17463617,
+   "year": 2019.15,
+   "lastValue": "37.98767967",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 34.59119497,
+   "year": 2019.23,
+   "lastValue": "36.17463617",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 33.05084746,
+   "year": 2019.31,
+   "lastValue": "34.59119497",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Indonesia",
+   "value": 30.12820513,
+   "year": 2019.38,
+   "lastValue": "33.05084746",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 25.64516129,
+   "year": 2014.08,
+   "lastValue": "26.8921095",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 25.04038772,
+   "year": 2014.15,
+   "lastValue": "25.64516129",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 24.67532468,
+   "year": 2014.23,
+   "lastValue": "25.04038772",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 21.71799028,
+   "year": 2014.31,
+   "lastValue": "24.67532468",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 22.36628849,
+   "year": 2014.38,
+   "lastValue": "21.71799028",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 22.00647249,
+   "year": 2014.46,
+   "lastValue": "22.36628849",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.84006462,
+   "year": 2014.54,
+   "lastValue": "22.00647249",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.28985507,
+   "year": 2014.62,
+   "lastValue": "20.84006462",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.2247191,
+   "year": 2014.69,
+   "lastValue": "20.28985507",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.92651757,
+   "year": 2014.77,
+   "lastValue": "20.2247191",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 19.20634921,
+   "year": 2014.85,
+   "lastValue": "20.92651757",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 19.27330174,
+   "year": 2014.92,
+   "lastValue": "19.20634921",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 19.1522763,
+   "year": 2015.08,
+   "lastValue": "19.27330174",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.05555556,
+   "year": 2015.15,
+   "lastValue": "19.1522763",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 17.42424242,
+   "year": 2015.23,
+   "lastValue": "18.05555556",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 25.89820359,
+   "year": 2015.31,
+   "lastValue": "17.42424242",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 25.14792899,
+   "year": 2015.38,
+   "lastValue": "25.89820359",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 24.96350365,
+   "year": 2015.46,
+   "lastValue": "25.14792899",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 24.06340058,
+   "year": 2015.54,
+   "lastValue": "24.96350365",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 23.32859175,
+   "year": 2015.62,
+   "lastValue": "24.06340058",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 22.78481013,
+   "year": 2015.69,
+   "lastValue": "23.32859175",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 21.91400832,
+   "year": 2015.77,
+   "lastValue": "22.78481013",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 21.47742818,
+   "year": 2015.85,
+   "lastValue": "21.91400832",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.78272605,
+   "year": 2015.92,
+   "lastValue": "21.47742818",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 21.0106383,
+   "year": 2016.08,
+   "lastValue": "20.78272605",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.76719577,
+   "year": 2016.15,
+   "lastValue": "21.0106383",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 20.60367454,
+   "year": 2016.23,
+   "lastValue": "20.76719577",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.32470893,
+   "year": 2016.31,
+   "lastValue": "20.60367454",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.79310345,
+   "year": 2016.38,
+   "lastValue": "13.32470893",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.36696091,
+   "year": 2016.46,
+   "lastValue": "13.79310345",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.55721393,
+   "year": 2016.54,
+   "lastValue": "13.36696091",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.25153374,
+   "year": 2016.62,
+   "lastValue": "13.55721393",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.57557437,
+   "year": 2016.69,
+   "lastValue": "13.25153374",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.39570918,
+   "year": 2016.77,
+   "lastValue": "12.57557437",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.58823529,
+   "year": 2016.85,
+   "lastValue": "12.39570918",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.90697674,
+   "year": 2016.92,
+   "lastValue": "12.58823529",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.3853211,
+   "year": 2017.08,
+   "lastValue": "12.90697674",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.81179138,
+   "year": 2017.15,
+   "lastValue": "12.3853211",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.61079865,
+   "year": 2017.23,
+   "lastValue": "12.81179138",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.47438753,
+   "year": 2017.31,
+   "lastValue": "13.61079865",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.57615894,
+   "year": 2017.38,
+   "lastValue": "13.47438753",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.89496718,
+   "year": 2017.46,
+   "lastValue": "13.57615894",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.23210412,
+   "year": 2017.54,
+   "lastValue": "13.89496718",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.21160043,
+   "year": 2017.62,
+   "lastValue": "13.23210412",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 12.9787234,
+   "year": 2017.69,
+   "lastValue": "13.21160043",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.27713383,
+   "year": 2017.77,
+   "lastValue": "12.9787234",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 13.46555324,
+   "year": 2017.85,
+   "lastValue": "13.27713383",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 14.18219462,
+   "year": 2017.92,
+   "lastValue": "13.46555324",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 15.21068859,
+   "year": 2018.08,
+   "lastValue": "14.18219462",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 14.88277268,
+   "year": 2018.15,
+   "lastValue": "15.21068859",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 15.35353535,
+   "year": 2018.23,
+   "lastValue": "14.88277268",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 15.13026052,
+   "year": 2018.31,
+   "lastValue": "15.35353535",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 15.72139303,
+   "year": 2018.38,
+   "lastValue": "15.13026052",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 15.59723593,
+   "year": 2018.46,
+   "lastValue": "15.72139303",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 16.17647059,
+   "year": 2018.54,
+   "lastValue": "15.59723593",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 17.26829268,
+   "year": 2018.62,
+   "lastValue": "16.17647059",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.75607386,
+   "year": 2018.69,
+   "lastValue": "17.26829268",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.97386254,
+   "year": 2018.77,
+   "lastValue": "18.75607386",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.62934363,
+   "year": 2018.85,
+   "lastValue": "18.97386254",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 19.55684008,
+   "year": 2018.92,
+   "lastValue": "18.62934363",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.26923077,
+   "year": 2019.08,
+   "lastValue": "19.55684008",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.63592699,
+   "year": 2019.15,
+   "lastValue": "18.26923077",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 18.04222649,
+   "year": 2019.23,
+   "lastValue": "18.63592699",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 17.14559387,
+   "year": 2019.31,
+   "lastValue": "18.04222649",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Japan",
+   "value": 16.42788921,
+   "year": 2019.38,
+   "lastValue": "17.14559387",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 31.66666667,
+   "year": 2014.08,
+   "lastValue": "31.66666667",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 32.5,
+   "year": 2014.15,
+   "lastValue": "31.66666667",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 33.33333333,
+   "year": 2014.23,
+   "lastValue": "32.5",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 34.7107438,
+   "year": 2014.31,
+   "lastValue": "33.33333333",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.44628099,
+   "year": 2014.38,
+   "lastValue": "34.7107438",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 27.86885246,
+   "year": 2014.46,
+   "lastValue": "26.44628099",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.82926829,
+   "year": 2014.54,
+   "lastValue": "27.86885246",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.3968254,
+   "year": 2014.62,
+   "lastValue": "26.82926829",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.65625,
+   "year": 2014.69,
+   "lastValue": "25.3968254",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.30769231,
+   "year": 2014.77,
+   "lastValue": "22.65625",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.72727273,
+   "year": 2014.85,
+   "lastValue": "22.30769231",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.62686567,
+   "year": 2014.92,
+   "lastValue": "22.72727273",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 20.4379562,
+   "year": 2015.08,
+   "lastValue": "24.62686567",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 20.14388489,
+   "year": 2015.15,
+   "lastValue": "20.4379562",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.69503546,
+   "year": 2015.23,
+   "lastValue": "20.14388489",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 20.97902098,
+   "year": 2015.31,
+   "lastValue": "22.69503546",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 19.8630137,
+   "year": 2015.38,
+   "lastValue": "20.97902098",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 21.62162162,
+   "year": 2015.46,
+   "lastValue": "19.8630137",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.66666667,
+   "year": 2015.54,
+   "lastValue": "21.62162162",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 21.05263158,
+   "year": 2015.62,
+   "lastValue": "22.66666667",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 23.52941176,
+   "year": 2015.69,
+   "lastValue": "21.05263158",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.4516129,
+   "year": 2015.77,
+   "lastValue": "23.52941176",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 23.56687898,
+   "year": 2015.85,
+   "lastValue": "26.4516129",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 23.27044025,
+   "year": 2015.92,
+   "lastValue": "23.56687898",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.625,
+   "year": 2016.08,
+   "lastValue": "23.27044025",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 28.57142857,
+   "year": 2016.15,
+   "lastValue": "25.625",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.76687117,
+   "year": 2016.23,
+   "lastValue": "28.57142857",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.82926829,
+   "year": 2016.31,
+   "lastValue": "25.76687117",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.45454545,
+   "year": 2016.38,
+   "lastValue": "26.82926829",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.75449102,
+   "year": 2016.46,
+   "lastValue": "25.45454545",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.02380952,
+   "year": 2016.54,
+   "lastValue": "22.75449102",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.35294118,
+   "year": 2016.62,
+   "lastValue": "22.02380952",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 21.6374269,
+   "year": 2016.69,
+   "lastValue": "22.35294118",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 19.07514451,
+   "year": 2016.77,
+   "lastValue": "21.6374269",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 21.14285714,
+   "year": 2016.85,
+   "lastValue": "19.07514451",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.15909091,
+   "year": 2016.92,
+   "lastValue": "21.14285714",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.71910112,
+   "year": 2017.08,
+   "lastValue": "22.15909091",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.1396648,
+   "year": 2017.15,
+   "lastValue": "24.71910112",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.86187845,
+   "year": 2017.23,
+   "lastValue": "25.1396648",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.92307692,
+   "year": 2017.31,
+   "lastValue": "24.86187845",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 27.7173913,
+   "year": 2017.38,
+   "lastValue": "26.92307692",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 29.72972973,
+   "year": 2017.46,
+   "lastValue": "27.7173913",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 31.1827957,
+   "year": 2017.54,
+   "lastValue": "29.72972973",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 33.15508021,
+   "year": 2017.62,
+   "lastValue": "31.1827957",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 31.91489362,
+   "year": 2017.69,
+   "lastValue": "33.15508021",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 33.15789474,
+   "year": 2017.77,
+   "lastValue": "31.91489362",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 31.41361257,
+   "year": 2017.85,
+   "lastValue": "33.15789474",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 30.56994819,
+   "year": 2017.92,
+   "lastValue": "31.41361257",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.02040816,
+   "year": 2018.08,
+   "lastValue": "30.56994819",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.6281407,
+   "year": 2018.15,
+   "lastValue": "26.02040816",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.23762376,
+   "year": 2018.23,
+   "lastValue": "25.6281407",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.3902439,
+   "year": 2018.31,
+   "lastValue": "26.23762376",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 27.40384615,
+   "year": 2018.38,
+   "lastValue": "24.3902439",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 27.01421801,
+   "year": 2018.46,
+   "lastValue": "27.40384615",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.04651163,
+   "year": 2018.54,
+   "lastValue": "27.01421801",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.20091324,
+   "year": 2018.62,
+   "lastValue": "26.04651163",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.32432432,
+   "year": 2018.69,
+   "lastValue": "24.20091324",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 22.90748899,
+   "year": 2018.77,
+   "lastValue": "24.32432432",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 24.67532468,
+   "year": 2018.85,
+   "lastValue": "22.90748899",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25.84745763,
+   "year": 2018.92,
+   "lastValue": "24.67532468",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 26.66666667,
+   "year": 2019.08,
+   "lastValue": "25.84745763",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 25,
+   "year": 2019.15,
+   "lastValue": "26.66666667",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 30.36437247,
+   "year": 2019.23,
+   "lastValue": "25",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 32.53012048,
+   "year": 2019.31,
+   "lastValue": "30.36437247",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Korea, Republic of",
+   "value": 30.95238095,
+   "year": 2019.38,
+   "lastValue": "32.53012048",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 34.7826087,
+   "year": 2014.08,
+   "lastValue": "37.6344086",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 30.43478261,
+   "year": 2014.15,
+   "lastValue": "34.7826087",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 30.43478261,
+   "year": 2014.23,
+   "lastValue": "30.43478261",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 30.43478261,
+   "year": 2014.31,
+   "lastValue": "30.43478261",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 26.88172043,
+   "year": 2014.38,
+   "lastValue": "30.43478261",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 25.80645161,
+   "year": 2014.46,
+   "lastValue": "26.88172043",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 25.53191489,
+   "year": 2014.54,
+   "lastValue": "25.80645161",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 25.53191489,
+   "year": 2014.62,
+   "lastValue": "25.53191489",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 28.72340426,
+   "year": 2014.69,
+   "lastValue": "25.53191489",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 29.78723404,
+   "year": 2014.77,
+   "lastValue": "28.72340426",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.63157895,
+   "year": 2014.85,
+   "lastValue": "29.78723404",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 38.94736842,
+   "year": 2014.92,
+   "lastValue": "32.63157895",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 38.94736842,
+   "year": 2015.08,
+   "lastValue": "38.94736842",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 38.54166667,
+   "year": 2015.15,
+   "lastValue": "38.94736842",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 37.5,
+   "year": 2015.23,
+   "lastValue": "38.54166667",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 38.54166667,
+   "year": 2015.31,
+   "lastValue": "37.5",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 36.08247423,
+   "year": 2015.38,
+   "lastValue": "38.54166667",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 39.58333333,
+   "year": 2015.46,
+   "lastValue": "36.08247423",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 39.58333333,
+   "year": 2015.54,
+   "lastValue": "39.58333333",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 40.20618557,
+   "year": 2015.62,
+   "lastValue": "39.58333333",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 39.17525773,
+   "year": 2015.69,
+   "lastValue": "40.20618557",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 40.20618557,
+   "year": 2015.77,
+   "lastValue": "39.17525773",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 36.73469388,
+   "year": 2015.85,
+   "lastValue": "40.20618557",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.65306122,
+   "year": 2015.92,
+   "lastValue": "36.73469388",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 33.33333333,
+   "year": 2016.08,
+   "lastValue": "32.65306122",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 35,
+   "year": 2016.15,
+   "lastValue": "33.33333333",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 33.66336634,
+   "year": 2016.23,
+   "lastValue": "35",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.03883495,
+   "year": 2016.31,
+   "lastValue": "33.66336634",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 31.73076923,
+   "year": 2016.38,
+   "lastValue": "32.03883495",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 30.18867925,
+   "year": 2016.46,
+   "lastValue": "31.73076923",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 33.33333333,
+   "year": 2016.54,
+   "lastValue": "30.18867925",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.11009174,
+   "year": 2016.62,
+   "lastValue": "33.33333333",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 33.63636364,
+   "year": 2016.69,
+   "lastValue": "32.11009174",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 30.63063063,
+   "year": 2016.77,
+   "lastValue": "33.63636364",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 28.57142857,
+   "year": 2016.85,
+   "lastValue": "30.63063063",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 27.19298246,
+   "year": 2016.92,
+   "lastValue": "28.57142857",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 23.93162393,
+   "year": 2017.08,
+   "lastValue": "27.19298246",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 21.8487395,
+   "year": 2017.15,
+   "lastValue": "23.93162393",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 21.48760331,
+   "year": 2017.23,
+   "lastValue": "21.8487395",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 21.95121951,
+   "year": 2017.31,
+   "lastValue": "21.48760331",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 22.58064516,
+   "year": 2017.38,
+   "lastValue": "21.95121951",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 22.22222222,
+   "year": 2017.46,
+   "lastValue": "22.58064516",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 18.11023622,
+   "year": 2017.54,
+   "lastValue": "22.22222222",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 15.50387597,
+   "year": 2017.62,
+   "lastValue": "18.11023622",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 14.50381679,
+   "year": 2017.69,
+   "lastValue": "15.50387597",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 17.42424242,
+   "year": 2017.77,
+   "lastValue": "14.50381679",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 17.91044776,
+   "year": 2017.85,
+   "lastValue": "17.42424242",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 18.65671642,
+   "year": 2017.92,
+   "lastValue": "17.91044776",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 28.35820896,
+   "year": 2018.08,
+   "lastValue": "18.65671642",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 27.40740741,
+   "year": 2018.15,
+   "lastValue": "28.35820896",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 30.37037037,
+   "year": 2018.23,
+   "lastValue": "27.40740741",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.35294118,
+   "year": 2018.31,
+   "lastValue": "30.37037037",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 31.61764706,
+   "year": 2018.38,
+   "lastValue": "32.35294118",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.84671533,
+   "year": 2018.46,
+   "lastValue": "31.61764706",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 33.33333333,
+   "year": 2018.54,
+   "lastValue": "32.84671533",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 36.23188406,
+   "year": 2018.62,
+   "lastValue": "33.33333333",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 44.20289855,
+   "year": 2018.69,
+   "lastValue": "36.23188406",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 41.60583942,
+   "year": 2018.77,
+   "lastValue": "44.20289855",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 43.38235294,
+   "year": 2018.85,
+   "lastValue": "41.60583942",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 45.18518519,
+   "year": 2018.92,
+   "lastValue": "43.38235294",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 35.07462687,
+   "year": 2019.08,
+   "lastValue": "45.18518519",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 38.63636364,
+   "year": 2019.15,
+   "lastValue": "35.07462687",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 35.11450382,
+   "year": 2019.23,
+   "lastValue": "38.63636364",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.55813953,
+   "year": 2019.31,
+   "lastValue": "35.11450382",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Macao SAR, China",
+   "value": 32.53968254,
+   "year": 2019.38,
+   "lastValue": "32.55813953",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 28.79746835,
+   "year": 2014.08,
+   "lastValue": "26.28205128",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 28.97196262,
+   "year": 2014.15,
+   "lastValue": "28.79746835",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 28.92307692,
+   "year": 2014.23,
+   "lastValue": "28.97196262",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 30.09118541,
+   "year": 2014.31,
+   "lastValue": "28.92307692",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 29.04191617,
+   "year": 2014.38,
+   "lastValue": "30.09118541",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.95870206,
+   "year": 2014.46,
+   "lastValue": "29.04191617",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.58139535,
+   "year": 2014.54,
+   "lastValue": "25.95870206",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.06876791,
+   "year": 2014.62,
+   "lastValue": "25.58139535",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.13636364,
+   "year": 2014.69,
+   "lastValue": "24.06876791",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.05042017,
+   "year": 2014.77,
+   "lastValue": "26.13636364",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.5,
+   "year": 2014.85,
+   "lastValue": "26.05042017",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.67123288,
+   "year": 2014.92,
+   "lastValue": "27.5",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.56756757,
+   "year": 2015.08,
+   "lastValue": "27.67123288",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.5862069,
+   "year": 2015.15,
+   "lastValue": "27.56756757",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 28.45953003,
+   "year": 2015.23,
+   "lastValue": "27.5862069",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.76530612,
+   "year": 2015.31,
+   "lastValue": "28.45953003",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.93516209,
+   "year": 2015.38,
+   "lastValue": "25.76530612",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.65036675,
+   "year": 2015.46,
+   "lastValue": "25.93516209",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.95238095,
+   "year": 2015.54,
+   "lastValue": "26.65036675",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.21809745,
+   "year": 2015.62,
+   "lastValue": "25.95238095",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.15349887,
+   "year": 2015.69,
+   "lastValue": "26.21809745",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.94481236,
+   "year": 2015.77,
+   "lastValue": "24.15349887",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 23.75809935,
+   "year": 2015.85,
+   "lastValue": "24.94481236",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 23.72881356,
+   "year": 2015.92,
+   "lastValue": "23.75809935",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 23.33333333,
+   "year": 2016.08,
+   "lastValue": "23.72881356",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.18032787,
+   "year": 2016.15,
+   "lastValue": "23.33333333",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.04040404,
+   "year": 2016.23,
+   "lastValue": "24.18032787",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.5489022,
+   "year": 2016.31,
+   "lastValue": "24.04040404",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.47035573,
+   "year": 2016.38,
+   "lastValue": "25.5489022",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.39726027,
+   "year": 2016.46,
+   "lastValue": "27.47035573",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 28.34951456,
+   "year": 2016.54,
+   "lastValue": "27.39726027",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.74566474,
+   "year": 2016.62,
+   "lastValue": "28.34951456",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.76864245,
+   "year": 2016.69,
+   "lastValue": "27.74566474",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.5654649,
+   "year": 2016.77,
+   "lastValue": "26.76864245",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 27.68361582,
+   "year": 2016.85,
+   "lastValue": "26.5654649",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 26.54205607,
+   "year": 2016.92,
+   "lastValue": "27.68361582",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.23191095,
+   "year": 2017.08,
+   "lastValue": "26.54205607",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 23.71323529,
+   "year": 2017.15,
+   "lastValue": "25.23191095",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 23.76599634,
+   "year": 2017.23,
+   "lastValue": "23.71323529",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 21.92028986,
+   "year": 2017.31,
+   "lastValue": "23.76599634",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 19.60431655,
+   "year": 2017.38,
+   "lastValue": "21.92028986",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 19.46428571,
+   "year": 2017.46,
+   "lastValue": "19.60431655",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 19.36056838,
+   "year": 2017.54,
+   "lastValue": "19.46428571",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 19.25795053,
+   "year": 2017.62,
+   "lastValue": "19.36056838",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 19.01408451,
+   "year": 2017.69,
+   "lastValue": "19.25795053",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 17.86339755,
+   "year": 2017.77,
+   "lastValue": "19.01408451",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 17.1875,
+   "year": 2017.85,
+   "lastValue": "17.86339755",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 18.93287435,
+   "year": 2017.92,
+   "lastValue": "17.1875",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 20.98976109,
+   "year": 2018.08,
+   "lastValue": "18.93287435",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 20.30456853,
+   "year": 2018.15,
+   "lastValue": "20.98976109",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 20.93802345,
+   "year": 2018.23,
+   "lastValue": "20.30456853",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 22.18543046,
+   "year": 2018.31,
+   "lastValue": "20.93802345",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 22.78688525,
+   "year": 2018.38,
+   "lastValue": "22.18543046",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 22.16828479,
+   "year": 2018.46,
+   "lastValue": "22.78688525",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 22.4,
+   "year": 2018.54,
+   "lastValue": "22.16828479",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.76190476,
+   "year": 2018.62,
+   "lastValue": "22.4",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.43171115,
+   "year": 2018.69,
+   "lastValue": "24.76190476",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.46583851,
+   "year": 2018.77,
+   "lastValue": "25.43171115",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.26964561,
+   "year": 2018.85,
+   "lastValue": "25.46583851",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.84097859,
+   "year": 2018.92,
+   "lastValue": "25.26964561",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.09090909,
+   "year": 2019.08,
+   "lastValue": "25.84097859",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 25.11278195,
+   "year": 2019.15,
+   "lastValue": "24.09090909",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.96263079,
+   "year": 2019.23,
+   "lastValue": "25.11278195",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 24.51708767,
+   "year": 2019.31,
+   "lastValue": "24.96263079",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Malaysia",
+   "value": 23.07692308,
+   "year": 2019.38,
+   "lastValue": "24.51708767",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2016.92,
+   "lastValue": null,
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.08,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.15,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.23,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.31,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.38,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.46,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.54,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.62,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.69,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.77,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.85,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2017.92,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.08,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.15,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.23,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.31,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.38,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.46,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.54,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.62,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.69,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.77,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.85,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2018.92,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2019.08,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2019.15,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2019.23,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2019.31,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "Mauritius",
+   "value": 0,
+   "year": 2019.38,
+   "lastValue": "0",
+   "rank": 19,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 45.20547945,
+   "year": 2014.08,
+   "lastValue": "45.13888889",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.2972973,
+   "year": 2014.15,
+   "lastValue": "45.20547945",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.65100671,
+   "year": 2014.23,
+   "lastValue": "47.2972973",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 40.13157895,
+   "year": 2014.31,
+   "lastValue": "47.65100671",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 40,
+   "year": 2014.38,
+   "lastValue": "40.13157895",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 39.24050633,
+   "year": 2014.46,
+   "lastValue": "40",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 35.40372671,
+   "year": 2014.54,
+   "lastValue": "39.24050633",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 37.19512195,
+   "year": 2014.62,
+   "lastValue": "35.40372671",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 36.14457831,
+   "year": 2014.69,
+   "lastValue": "37.19512195",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 36.9047619,
+   "year": 2014.77,
+   "lastValue": "36.14457831",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 37.64705882,
+   "year": 2014.85,
+   "lastValue": "36.9047619",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 36.84210526,
+   "year": 2014.92,
+   "lastValue": "37.64705882",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 38.95348837,
+   "year": 2015.08,
+   "lastValue": "36.84210526",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 36.20689655,
+   "year": 2015.15,
+   "lastValue": "38.95348837",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 35.42857143,
+   "year": 2015.23,
+   "lastValue": "36.20689655",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 37.5,
+   "year": 2015.31,
+   "lastValue": "35.42857143",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 38.06818182,
+   "year": 2015.38,
+   "lastValue": "37.5",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 41.8079096,
+   "year": 2015.46,
+   "lastValue": "38.06818182",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 46.32768362,
+   "year": 2015.54,
+   "lastValue": "41.8079096",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 48.02259887,
+   "year": 2015.62,
+   "lastValue": "46.32768362",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 49.43181818,
+   "year": 2015.69,
+   "lastValue": "48.02259887",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 50.85714286,
+   "year": 2015.77,
+   "lastValue": "49.43181818",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 50.85714286,
+   "year": 2015.85,
+   "lastValue": "50.85714286",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 54.02298851,
+   "year": 2015.92,
+   "lastValue": "50.85714286",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 52.02312139,
+   "year": 2016.08,
+   "lastValue": "54.02298851",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 53.48837209,
+   "year": 2016.15,
+   "lastValue": "52.02312139",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 55.55555556,
+   "year": 2016.23,
+   "lastValue": "53.48837209",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 54.11764706,
+   "year": 2016.31,
+   "lastValue": "55.55555556",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 50.58823529,
+   "year": 2016.38,
+   "lastValue": "54.11764706",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 45.88235294,
+   "year": 2016.46,
+   "lastValue": "50.58823529",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 43.85964912,
+   "year": 2016.54,
+   "lastValue": "45.88235294",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 49.12280702,
+   "year": 2016.62,
+   "lastValue": "43.85964912",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.95321637,
+   "year": 2016.69,
+   "lastValue": "49.12280702",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.95321637,
+   "year": 2016.77,
+   "lastValue": "47.95321637",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 49.12280702,
+   "year": 2016.85,
+   "lastValue": "47.95321637",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 49.70760234,
+   "year": 2016.92,
+   "lastValue": "49.12280702",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.95321637,
+   "year": 2017.08,
+   "lastValue": "49.70760234",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 50,
+   "year": 2017.15,
+   "lastValue": "47.95321637",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.64705882,
+   "year": 2017.23,
+   "lastValue": "50",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 50.58823529,
+   "year": 2017.31,
+   "lastValue": "47.64705882",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 49.41176471,
+   "year": 2017.38,
+   "lastValue": "50.58823529",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 47.92899408,
+   "year": 2017.46,
+   "lastValue": "49.41176471",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 50.29585799,
+   "year": 2017.54,
+   "lastValue": "47.92899408",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 43.19526627,
+   "year": 2017.62,
+   "lastValue": "50.29585799",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 46.15384615,
+   "year": 2017.69,
+   "lastValue": "43.19526627",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 44.9704142,
+   "year": 2017.77,
+   "lastValue": "46.15384615",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 44.9704142,
+   "year": 2017.85,
+   "lastValue": "44.9704142",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 45.83333333,
+   "year": 2017.92,
+   "lastValue": "44.9704142",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 46.42857143,
+   "year": 2018.08,
+   "lastValue": "45.83333333",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 44.64285714,
+   "year": 2018.15,
+   "lastValue": "46.42857143",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 48.50299401,
+   "year": 2018.23,
+   "lastValue": "44.64285714",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 46.38554217,
+   "year": 2018.31,
+   "lastValue": "48.50299401",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 48.79518072,
+   "year": 2018.38,
+   "lastValue": "46.38554217",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 57.57575758,
+   "year": 2018.46,
+   "lastValue": "48.79518072",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 63.58024691,
+   "year": 2018.54,
+   "lastValue": "57.57575758",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 62.5,
+   "year": 2018.62,
+   "lastValue": "63.58024691",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 59.74842767,
+   "year": 2018.69,
+   "lastValue": "62.5",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 61.14649682,
+   "year": 2018.77,
+   "lastValue": "59.74842767",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 60.64516129,
+   "year": 2018.85,
+   "lastValue": "61.14649682",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 61.03896104,
+   "year": 2018.92,
+   "lastValue": "60.64516129",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 60.52631579,
+   "year": 2019.08,
+   "lastValue": "61.03896104",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 61.58940397,
+   "year": 2019.15,
+   "lastValue": "60.52631579",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 59.33333333,
+   "year": 2019.23,
+   "lastValue": "61.58940397",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 59.06040268,
+   "year": 2019.31,
+   "lastValue": "59.33333333",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "New Zealand",
+   "value": 60.54421769,
+   "year": 2019.38,
+   "lastValue": "59.06040268",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.08,
+   "lastValue": null,
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.15,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.23,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.31,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.38,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.46,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.54,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.62,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.69,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.77,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.85,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2017.92,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.08,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.15,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.23,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.31,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.38,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.46,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.54,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.62,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.69,
+   "lastValue": "0",
+   "rank": 17,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 0,
+   "year": 2018.77,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 3.225806452,
+   "year": 2018.85,
+   "lastValue": "0",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 3.125,
+   "year": 2018.92,
+   "lastValue": "3.225806452",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 3.125,
+   "year": 2019.08,
+   "lastValue": "3.125",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 6.25,
+   "year": 2019.15,
+   "lastValue": "3.125",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 6.25,
+   "year": 2019.23,
+   "lastValue": "6.25",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 12.5,
+   "year": 2019.31,
+   "lastValue": "6.25",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Papua New Guinea",
+   "value": 15.625,
+   "year": 2019.38,
+   "lastValue": "12.5",
+   "rank": 18,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 28.78151261,
+   "year": 2014.08,
+   "lastValue": "27.25321888",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 29.15811088,
+   "year": 2014.15,
+   "lastValue": "28.78151261",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 29.05811623,
+   "year": 2014.23,
+   "lastValue": "29.15811088",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.9296875,
+   "year": 2014.31,
+   "lastValue": "29.05811623",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 28,
+   "year": 2014.38,
+   "lastValue": "27.9296875",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 30.2238806,
+   "year": 2014.46,
+   "lastValue": "28",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 32.53676471,
+   "year": 2014.54,
+   "lastValue": "30.2238806",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 35.70127505,
+   "year": 2014.62,
+   "lastValue": "32.53676471",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 38,
+   "year": 2014.69,
+   "lastValue": "35.70127505",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.09090909,
+   "year": 2014.77,
+   "lastValue": "38",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 38.18181818,
+   "year": 2014.85,
+   "lastValue": "39.09090909",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 38.25136612,
+   "year": 2014.92,
+   "lastValue": "38.18181818",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 36.90909091,
+   "year": 2015.08,
+   "lastValue": "38.25136612",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 37.09090909,
+   "year": 2015.15,
+   "lastValue": "36.90909091",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 37.27272727,
+   "year": 2015.23,
+   "lastValue": "37.09090909",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 37.97468354,
+   "year": 2015.31,
+   "lastValue": "37.27272727",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 41.04882459,
+   "year": 2015.38,
+   "lastValue": "37.97468354",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.45945946,
+   "year": 2015.46,
+   "lastValue": "41.04882459",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.20863309,
+   "year": 2015.54,
+   "lastValue": "39.45945946",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 36.85152057,
+   "year": 2015.62,
+   "lastValue": "39.20863309",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.28571429,
+   "year": 2015.69,
+   "lastValue": "36.85152057",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.85765125,
+   "year": 2015.77,
+   "lastValue": "39.28571429",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.50617284,
+   "year": 2015.85,
+   "lastValue": "39.85765125",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.51048951,
+   "year": 2015.92,
+   "lastValue": "39.50617284",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 41.14583333,
+   "year": 2016.08,
+   "lastValue": "39.51048951",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 41.65232358,
+   "year": 2016.15,
+   "lastValue": "41.14583333",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 42.39316239,
+   "year": 2016.23,
+   "lastValue": "41.65232358",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 41.66666667,
+   "year": 2016.31,
+   "lastValue": "42.39316239",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.76311337,
+   "year": 2016.38,
+   "lastValue": "41.66666667",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 39.73063973,
+   "year": 2016.46,
+   "lastValue": "39.76311337",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 35.77371048,
+   "year": 2016.54,
+   "lastValue": "39.73063973",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 34.92586491,
+   "year": 2016.62,
+   "lastValue": "35.77371048",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 31.98051948,
+   "year": 2016.69,
+   "lastValue": "34.92586491",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 29.87220447,
+   "year": 2016.77,
+   "lastValue": "31.98051948",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 28.81889764,
+   "year": 2016.85,
+   "lastValue": "29.87220447",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.90697674,
+   "year": 2016.92,
+   "lastValue": "28.81889764",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.06422018,
+   "year": 2017.08,
+   "lastValue": "27.90697674",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 25.90361446,
+   "year": 2017.15,
+   "lastValue": "27.06422018",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 24.81426449,
+   "year": 2017.23,
+   "lastValue": "25.90361446",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 24.08223201,
+   "year": 2017.31,
+   "lastValue": "24.81426449",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 23.29956585,
+   "year": 2017.38,
+   "lastValue": "24.08223201",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 22.79202279,
+   "year": 2017.46,
+   "lastValue": "23.29956585",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 24.61322082,
+   "year": 2017.54,
+   "lastValue": "22.79202279",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 24.93074792,
+   "year": 2017.62,
+   "lastValue": "24.61322082",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 25.27322404,
+   "year": 2017.69,
+   "lastValue": "24.93074792",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 26.14555256,
+   "year": 2017.77,
+   "lastValue": "25.27322404",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 26.42762284,
+   "year": 2017.85,
+   "lastValue": "26.14555256",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 26.96335079,
+   "year": 2017.92,
+   "lastValue": "26.42762284",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 26.80412371,
+   "year": 2018.08,
+   "lastValue": "26.96335079",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.72151899,
+   "year": 2018.15,
+   "lastValue": "26.80412371",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.45341615,
+   "year": 2018.23,
+   "lastValue": "27.72151899",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.15151515,
+   "year": 2018.31,
+   "lastValue": "27.45341615",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.62691854,
+   "year": 2018.38,
+   "lastValue": "27.15151515",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.75229358,
+   "year": 2018.46,
+   "lastValue": "27.62691854",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 27.5862069,
+   "year": 2018.54,
+   "lastValue": "27.75229358",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 26.07296137,
+   "year": 2018.62,
+   "lastValue": "27.5862069",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 25.53846154,
+   "year": 2018.69,
+   "lastValue": "26.07296137",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 24.90196078,
+   "year": 2018.77,
+   "lastValue": "25.53846154",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 23.66197183,
+   "year": 2018.85,
+   "lastValue": "24.90196078",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 23.62488729,
+   "year": 2018.92,
+   "lastValue": "23.66197183",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 23.15698179,
+   "year": 2019.08,
+   "lastValue": "23.62488729",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 22.59414226,
+   "year": 2019.15,
+   "lastValue": "23.15698179",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 21.79176755,
+   "year": 2019.23,
+   "lastValue": "22.59414226",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 21.83098592,
+   "year": 2019.31,
+   "lastValue": "21.79176755",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Philippines",
+   "value": 20.8365019,
+   "year": 2019.38,
+   "lastValue": "21.83098592",
+   "rank": 16,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 33.02687412,
+   "year": 2014.08,
+   "lastValue": "31.86657204",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 31.69014085,
+   "year": 2014.15,
+   "lastValue": "33.02687412",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 31.18881119,
+   "year": 2014.23,
+   "lastValue": "31.69014085",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 31.70731707,
+   "year": 2014.31,
+   "lastValue": "31.18881119",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 31.78025035,
+   "year": 2014.38,
+   "lastValue": "31.70731707",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 31.02012491,
+   "year": 2014.46,
+   "lastValue": "31.78025035",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 31.71745152,
+   "year": 2014.54,
+   "lastValue": "31.02012491",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 30.84886128,
+   "year": 2014.62,
+   "lastValue": "31.71745152",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 30.62629043,
+   "year": 2014.69,
+   "lastValue": "30.84886128",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 36.89655172,
+   "year": 2014.77,
+   "lastValue": "30.62629043",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 42.73801251,
+   "year": 2014.85,
+   "lastValue": "36.89655172",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 44.98245614,
+   "year": 2014.92,
+   "lastValue": "42.73801251",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 43.07909605,
+   "year": 2015.08,
+   "lastValue": "44.98245614",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 43.02987198,
+   "year": 2015.15,
+   "lastValue": "43.07909605",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 44.29289304,
+   "year": 2015.23,
+   "lastValue": "43.02987198",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 43.904209,
+   "year": 2015.31,
+   "lastValue": "44.29289304",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 44.75421864,
+   "year": 2015.38,
+   "lastValue": "43.904209",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 45.6231454,
+   "year": 2015.46,
+   "lastValue": "44.75421864",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 46.32683658,
+   "year": 2015.54,
+   "lastValue": "45.6231454",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 47.76006074,
+   "year": 2015.62,
+   "lastValue": "46.32683658",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 47.65924789,
+   "year": 2015.69,
+   "lastValue": "47.76006074",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 39.98459168,
+   "year": 2015.77,
+   "lastValue": "47.65924789",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 33.92307692,
+   "year": 2015.85,
+   "lastValue": "39.98459168",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 32.36196319,
+   "year": 2015.92,
+   "lastValue": "33.92307692",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 29.54198473,
+   "year": 2016.08,
+   "lastValue": "32.36196319",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 29.86322188,
+   "year": 2016.15,
+   "lastValue": "29.54198473",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.70090634,
+   "year": 2016.23,
+   "lastValue": "29.86322188",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 30.60150376,
+   "year": 2016.31,
+   "lastValue": "28.70090634",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 30.23952096,
+   "year": 2016.38,
+   "lastValue": "30.60150376",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 29.65722802,
+   "year": 2016.46,
+   "lastValue": "30.23952096",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 29.9925761,
+   "year": 2016.54,
+   "lastValue": "29.65722802",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.17109145,
+   "year": 2016.62,
+   "lastValue": "29.9925761",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 29.3901543,
+   "year": 2016.69,
+   "lastValue": "28.17109145",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.89539137,
+   "year": 2016.77,
+   "lastValue": "29.3901543",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.07272727,
+   "year": 2016.85,
+   "lastValue": "28.89539137",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.12725958,
+   "year": 2016.92,
+   "lastValue": "28.07272727",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 26.92031587,
+   "year": 2017.08,
+   "lastValue": "28.12725958",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 26.90935046,
+   "year": 2017.15,
+   "lastValue": "26.92031587",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 26.77053824,
+   "year": 2017.23,
+   "lastValue": "26.90935046",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 25.36893886,
+   "year": 2017.31,
+   "lastValue": "26.77053824",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 25.8356546,
+   "year": 2017.38,
+   "lastValue": "25.36893886",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 25.03448276,
+   "year": 2017.46,
+   "lastValue": "25.8356546",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 24.18032787,
+   "year": 2017.54,
+   "lastValue": "25.03448276",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 24.89823609,
+   "year": 2017.62,
+   "lastValue": "24.18032787",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 24.64646465,
+   "year": 2017.69,
+   "lastValue": "24.89823609",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 25.63587684,
+   "year": 2017.77,
+   "lastValue": "24.64646465",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 26.63115846,
+   "year": 2017.85,
+   "lastValue": "25.63587684",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 26.14162806,
+   "year": 2017.92,
+   "lastValue": "26.63115846",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 26.38157895,
+   "year": 2018.08,
+   "lastValue": "26.14162806",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.22513089,
+   "year": 2018.15,
+   "lastValue": "26.38157895",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.06571243,
+   "year": 2018.23,
+   "lastValue": "27.22513089",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.70226537,
+   "year": 2018.31,
+   "lastValue": "27.06571243",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.40167634,
+   "year": 2018.38,
+   "lastValue": "27.70226537",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.6448298,
+   "year": 2018.46,
+   "lastValue": "27.40167634",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.64450128,
+   "year": 2018.54,
+   "lastValue": "28.6448298",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.32590707,
+   "year": 2018.62,
+   "lastValue": "28.64450128",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.18239392,
+   "year": 2018.69,
+   "lastValue": "28.32590707",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.15816005,
+   "year": 2018.77,
+   "lastValue": "28.18239392",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.3354232,
+   "year": 2018.85,
+   "lastValue": "27.15816005",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28,
+   "year": 2018.92,
+   "lastValue": "27.3354232",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.17955112,
+   "year": 2019.08,
+   "lastValue": "28",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.54975124,
+   "year": 2019.15,
+   "lastValue": "28.17955112",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 28.37585563,
+   "year": 2019.23,
+   "lastValue": "27.54975124",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.38021157,
+   "year": 2019.31,
+   "lastValue": "28.37585563",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Singapore",
+   "value": 27.38021157,
+   "year": 2019.38,
+   "lastValue": "27.38021157",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 38.23529412,
+   "year": 2014.08,
+   "lastValue": "36.66666667",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 37.83783784,
+   "year": 2014.15,
+   "lastValue": "38.23529412",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 39.02439024,
+   "year": 2014.23,
+   "lastValue": "37.83783784",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 37.77777778,
+   "year": 2014.31,
+   "lastValue": "39.02439024",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 39.58333333,
+   "year": 2014.38,
+   "lastValue": "37.77777778",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 34,
+   "year": 2014.46,
+   "lastValue": "39.58333333",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 42.30769231,
+   "year": 2014.54,
+   "lastValue": "34",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 46.2962963,
+   "year": 2014.62,
+   "lastValue": "42.30769231",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 44.64285714,
+   "year": 2014.69,
+   "lastValue": "46.2962963",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 43.10344828,
+   "year": 2014.77,
+   "lastValue": "44.64285714",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 36.66666667,
+   "year": 2014.85,
+   "lastValue": "43.10344828",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 32.25806452,
+   "year": 2014.92,
+   "lastValue": "36.66666667",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 37.5,
+   "year": 2015.08,
+   "lastValue": "32.25806452",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 37.31343284,
+   "year": 2015.15,
+   "lastValue": "37.5",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 39.13043478,
+   "year": 2015.23,
+   "lastValue": "37.31343284",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 40.84507042,
+   "year": 2015.31,
+   "lastValue": "39.13043478",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 44.44444444,
+   "year": 2015.38,
+   "lastValue": "40.84507042",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 59.72222222,
+   "year": 2015.46,
+   "lastValue": "44.44444444",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 56.16438356,
+   "year": 2015.54,
+   "lastValue": "59.72222222",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 56.75675676,
+   "year": 2015.62,
+   "lastValue": "56.16438356",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 57.33333333,
+   "year": 2015.69,
+   "lastValue": "56.75675676",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 58.44155844,
+   "year": 2015.77,
+   "lastValue": "57.33333333",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 60.75949367,
+   "year": 2015.85,
+   "lastValue": "58.44155844",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 58.02469136,
+   "year": 2015.92,
+   "lastValue": "60.75949367",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 48.80952381,
+   "year": 2016.08,
+   "lastValue": "58.02469136",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 50.58823529,
+   "year": 2016.15,
+   "lastValue": "48.80952381",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 44.31818182,
+   "year": 2016.23,
+   "lastValue": "50.58823529",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 46.06741573,
+   "year": 2016.31,
+   "lastValue": "44.31818182",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 45.05494505,
+   "year": 2016.38,
+   "lastValue": "46.06741573",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 32.9787234,
+   "year": 2016.46,
+   "lastValue": "45.05494505",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 35.41666667,
+   "year": 2016.54,
+   "lastValue": "32.9787234",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 35.05154639,
+   "year": 2016.62,
+   "lastValue": "35.41666667",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 34.34343434,
+   "year": 2016.69,
+   "lastValue": "35.05154639",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 34.34343434,
+   "year": 2016.77,
+   "lastValue": "34.34343434",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 36.36363636,
+   "year": 2016.85,
+   "lastValue": "34.34343434",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 40.4040404,
+   "year": 2016.92,
+   "lastValue": "36.36363636",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 42.85714286,
+   "year": 2017.08,
+   "lastValue": "40.4040404",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 38.7755102,
+   "year": 2017.15,
+   "lastValue": "42.85714286",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 39.39393939,
+   "year": 2017.23,
+   "lastValue": "38.7755102",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 41.41414141,
+   "year": 2017.31,
+   "lastValue": "39.39393939",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 39,
+   "year": 2017.38,
+   "lastValue": "41.41414141",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 60,
+   "year": 2017.46,
+   "lastValue": "39",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 59,
+   "year": 2017.54,
+   "lastValue": "60",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 67,
+   "year": 2017.62,
+   "lastValue": "59",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 69.30693069,
+   "year": 2017.69,
+   "lastValue": "67",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 74.25742574,
+   "year": 2017.77,
+   "lastValue": "69.30693069",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 72.54901961,
+   "year": 2017.85,
+   "lastValue": "74.25742574",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 70.87378641,
+   "year": 2017.92,
+   "lastValue": "72.54901961",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 75,
+   "year": 2018.08,
+   "lastValue": "70.87378641",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 76.41509434,
+   "year": 2018.15,
+   "lastValue": "75",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 80.37383178,
+   "year": 2018.23,
+   "lastValue": "76.41509434",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 75.92592593,
+   "year": 2018.31,
+   "lastValue": "80.37383178",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 80.73394495,
+   "year": 2018.38,
+   "lastValue": "75.92592593",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 62.72727273,
+   "year": 2018.46,
+   "lastValue": "80.73394495",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 61.0619469,
+   "year": 2018.54,
+   "lastValue": "62.72727273",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 58.97435897,
+   "year": 2018.62,
+   "lastValue": "61.0619469",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 59.50413223,
+   "year": 2018.69,
+   "lastValue": "58.97435897",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 56.8,
+   "year": 2018.77,
+   "lastValue": "59.50413223",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 61.24031008,
+   "year": 2018.85,
+   "lastValue": "56.8",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 65.15151515,
+   "year": 2018.92,
+   "lastValue": "61.24031008",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 63.7037037,
+   "year": 2019.08,
+   "lastValue": "65.15151515",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 63.76811594,
+   "year": 2019.15,
+   "lastValue": "63.7037037",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 62.14285714,
+   "year": 2019.23,
+   "lastValue": "63.76811594",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 62.93706294,
+   "year": 2019.31,
+   "lastValue": "62.14285714",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Sri Lanka",
+   "value": 59.31034483,
+   "year": 2019.38,
+   "lastValue": "62.93706294",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 33.75,
+   "year": 2014.08,
+   "lastValue": "35.56485356",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 33.60995851,
+   "year": 2014.15,
+   "lastValue": "33.75",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 35.95041322,
+   "year": 2014.23,
+   "lastValue": "33.60995851",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 32.37704918,
+   "year": 2014.31,
+   "lastValue": "35.95041322",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 31.02040816,
+   "year": 2014.38,
+   "lastValue": "32.37704918",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 31.70731707,
+   "year": 2014.46,
+   "lastValue": "31.02040816",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 32.79352227,
+   "year": 2014.54,
+   "lastValue": "31.70731707",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 34.41295547,
+   "year": 2014.62,
+   "lastValue": "32.79352227",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 36.03238866,
+   "year": 2014.69,
+   "lastValue": "34.41295547",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 33.60323887,
+   "year": 2014.77,
+   "lastValue": "36.03238866",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 33.87096774,
+   "year": 2014.85,
+   "lastValue": "33.60323887",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 34.67741935,
+   "year": 2014.92,
+   "lastValue": "33.87096774",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 37.5,
+   "year": 2015.08,
+   "lastValue": "34.67741935",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 34.81781377,
+   "year": 2015.15,
+   "lastValue": "37.5",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 28.62903226,
+   "year": 2015.23,
+   "lastValue": "34.81781377",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 29.83870968,
+   "year": 2015.31,
+   "lastValue": "28.62903226",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 31.98380567,
+   "year": 2015.38,
+   "lastValue": "29.83870968",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 31.30081301,
+   "year": 2015.46,
+   "lastValue": "31.98380567",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 28.97959184,
+   "year": 2015.54,
+   "lastValue": "31.30081301",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.45901639,
+   "year": 2015.62,
+   "lastValue": "28.97959184",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 25.81967213,
+   "year": 2015.69,
+   "lastValue": "27.45901639",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 25.51440329,
+   "year": 2015.77,
+   "lastValue": "25.81967213",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 23.45679012,
+   "year": 2015.85,
+   "lastValue": "25.51440329",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 21.31147541,
+   "year": 2015.92,
+   "lastValue": "23.45679012",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.75510204,
+   "year": 2016.08,
+   "lastValue": "21.31147541",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.75510204,
+   "year": 2016.15,
+   "lastValue": "27.75510204",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 30.20408163,
+   "year": 2016.23,
+   "lastValue": "27.75510204",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 29.79591837,
+   "year": 2016.31,
+   "lastValue": "30.20408163",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.75510204,
+   "year": 2016.38,
+   "lastValue": "29.79591837",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 30.20408163,
+   "year": 2016.46,
+   "lastValue": "27.75510204",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 31.83673469,
+   "year": 2016.54,
+   "lastValue": "30.20408163",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 33.06122449,
+   "year": 2016.62,
+   "lastValue": "31.83673469",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 34.83606557,
+   "year": 2016.69,
+   "lastValue": "33.06122449",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 34.42622951,
+   "year": 2016.77,
+   "lastValue": "34.83606557",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 35.3909465,
+   "year": 2016.85,
+   "lastValue": "34.42622951",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 36.09958506,
+   "year": 2016.92,
+   "lastValue": "35.3909465",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.91666667,
+   "year": 2017.08,
+   "lastValue": "36.09958506",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 29.70711297,
+   "year": 2017.15,
+   "lastValue": "27.91666667",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 28.87029289,
+   "year": 2017.23,
+   "lastValue": "29.70711297",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 28.87029289,
+   "year": 2017.31,
+   "lastValue": "28.87029289",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 29.70711297,
+   "year": 2017.38,
+   "lastValue": "28.87029289",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.91666667,
+   "year": 2017.46,
+   "lastValue": "29.70711297",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 26.85950413,
+   "year": 2017.54,
+   "lastValue": "27.91666667",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.04918033,
+   "year": 2017.62,
+   "lastValue": "26.85950413",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 26.72064777,
+   "year": 2017.69,
+   "lastValue": "27.04918033",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.09163347,
+   "year": 2017.77,
+   "lastValue": "26.72064777",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 27.45098039,
+   "year": 2017.85,
+   "lastValue": "27.09163347",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 29.11877395,
+   "year": 2017.92,
+   "lastValue": "27.45098039",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 29.58801498,
+   "year": 2018.08,
+   "lastValue": "29.11877395",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 28.46715328,
+   "year": 2018.15,
+   "lastValue": "29.58801498",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 28.82562278,
+   "year": 2018.23,
+   "lastValue": "28.46715328",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 30,
+   "year": 2018.31,
+   "lastValue": "28.82562278",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 33.22147651,
+   "year": 2018.38,
+   "lastValue": "30",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 36.15635179,
+   "year": 2018.46,
+   "lastValue": "33.22147651",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 37.97468354,
+   "year": 2018.54,
+   "lastValue": "36.15635179",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 37.84615385,
+   "year": 2018.62,
+   "lastValue": "37.97468354",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 35.52238806,
+   "year": 2018.69,
+   "lastValue": "37.84615385",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 35.46511628,
+   "year": 2018.77,
+   "lastValue": "35.52238806",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 35.51136364,
+   "year": 2018.85,
+   "lastValue": "35.46511628",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 38.82681564,
+   "year": 2018.92,
+   "lastValue": "35.51136364",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 36.81318681,
+   "year": 2019.08,
+   "lastValue": "38.82681564",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 40,
+   "year": 2019.15,
+   "lastValue": "36.81318681",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 38.93333333,
+   "year": 2019.23,
+   "lastValue": "40",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 38.15789474,
+   "year": 2019.31,
+   "lastValue": "38.93333333",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Taiwan, China",
+   "value": 34.28571429,
+   "year": 2019.38,
+   "lastValue": "38.15789474",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 48.02091113,
+   "year": 2014.08,
+   "lastValue": "48.61630516",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 47.08955224,
+   "year": 2014.15,
+   "lastValue": "48.02091113",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 45.04839911,
+   "year": 2014.23,
+   "lastValue": "47.08955224",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.9844098,
+   "year": 2014.31,
+   "lastValue": "45.04839911",
+   "rank": 1,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.01183432,
+   "year": 2014.38,
+   "lastValue": "42.9844098",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.13254786,
+   "year": 2014.46,
+   "lastValue": "42.01183432",
+   "rank": 2,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 41.30594277,
+   "year": 2014.54,
+   "lastValue": "40.13254786",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.31332357,
+   "year": 2014.62,
+   "lastValue": "41.30594277",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.90935673,
+   "year": 2014.69,
+   "lastValue": "42.31332357",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.99270073,
+   "year": 2014.77,
+   "lastValue": "42.90935673",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.50363901,
+   "year": 2014.85,
+   "lastValue": "42.99270073",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 41.83006536,
+   "year": 2014.92,
+   "lastValue": "42.50363901",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.71211022,
+   "year": 2015.08,
+   "lastValue": "41.83006536",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 42.38267148,
+   "year": 2015.15,
+   "lastValue": "42.71211022",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 41.48094896,
+   "year": 2015.23,
+   "lastValue": "42.38267148",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 41.4756447,
+   "year": 2015.31,
+   "lastValue": "41.48094896",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.55595153,
+   "year": 2015.38,
+   "lastValue": "41.4756447",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 41.32290185,
+   "year": 2015.46,
+   "lastValue": "40.55595153",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.73811214,
+   "year": 2015.54,
+   "lastValue": "41.32290185",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.52519517,
+   "year": 2015.62,
+   "lastValue": "40.73811214",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.7249467,
+   "year": 2015.69,
+   "lastValue": "40.52519517",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.05702067,
+   "year": 2015.77,
+   "lastValue": "40.7249467",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 39.48497854,
+   "year": 2015.85,
+   "lastValue": "40.05702067",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 39.62670495,
+   "year": 2015.92,
+   "lastValue": "39.48497854",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 38.90489914,
+   "year": 2016.08,
+   "lastValue": "39.62670495",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 38.77256318,
+   "year": 2016.15,
+   "lastValue": "38.90489914",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 40.07246377,
+   "year": 2016.23,
+   "lastValue": "38.77256318",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 38.44476744,
+   "year": 2016.31,
+   "lastValue": "40.07246377",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 37.68221574,
+   "year": 2016.38,
+   "lastValue": "38.44476744",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 37.53644315,
+   "year": 2016.46,
+   "lastValue": "37.68221574",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 36.99127907,
+   "year": 2016.54,
+   "lastValue": "37.53644315",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 35.33236994,
+   "year": 2016.62,
+   "lastValue": "36.99127907",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.57142857,
+   "year": 2016.69,
+   "lastValue": "35.33236994",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.69675599,
+   "year": 2016.77,
+   "lastValue": "34.57142857",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.58594294,
+   "year": 2016.85,
+   "lastValue": "34.69675599",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.79752917,
+   "year": 2016.92,
+   "lastValue": "34.58594294",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 35.00338524,
+   "year": 2017.08,
+   "lastValue": "34.79752917",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.13493654,
+   "year": 2017.15,
+   "lastValue": "35.00338524",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 32.93807642,
+   "year": 2017.23,
+   "lastValue": "34.13493654",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 33.39831059,
+   "year": 2017.31,
+   "lastValue": "32.93807642",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.59563543,
+   "year": 2017.38,
+   "lastValue": "33.39831059",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.30749682,
+   "year": 2017.46,
+   "lastValue": "34.59563543",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 38.24273072,
+   "year": 2017.54,
+   "lastValue": "34.30749682",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 37.2327044,
+   "year": 2017.62,
+   "lastValue": "38.24273072",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 36.93467337,
+   "year": 2017.69,
+   "lastValue": "37.2327044",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 36.11809045,
+   "year": 2017.77,
+   "lastValue": "36.93467337",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 35.76367065,
+   "year": 2017.85,
+   "lastValue": "36.11809045",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.59119497,
+   "year": 2017.92,
+   "lastValue": "35.76367065",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.44584383,
+   "year": 2018.08,
+   "lastValue": "34.59119497",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 35.69172457,
+   "year": 2018.15,
+   "lastValue": "34.44584383",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 35.95933926,
+   "year": 2018.23,
+   "lastValue": "35.69172457",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.71601787,
+   "year": 2018.31,
+   "lastValue": "35.95933926",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.12443874,
+   "year": 2018.38,
+   "lastValue": "34.71601787",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 33.84912959,
+   "year": 2018.46,
+   "lastValue": "34.12443874",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 28.23984526,
+   "year": 2018.54,
+   "lastValue": "33.84912959",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 29.11555842,
+   "year": 2018.62,
+   "lastValue": "28.23984526",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 29.76113622,
+   "year": 2018.69,
+   "lastValue": "29.11555842",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 31.86813187,
+   "year": 2018.77,
+   "lastValue": "29.76113622",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 31.73884939,
+   "year": 2018.85,
+   "lastValue": "31.86813187",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 33.59223301,
+   "year": 2018.92,
+   "lastValue": "31.73884939",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 33.33333333,
+   "year": 2019.08,
+   "lastValue": "33.59223301",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 33.54964309,
+   "year": 2019.15,
+   "lastValue": "33.33333333",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 33.20363165,
+   "year": 2019.23,
+   "lastValue": "33.54964309",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 35.43153796,
+   "year": 2019.31,
+   "lastValue": "33.20363165",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Thailand",
+   "value": 34.39325114,
+   "year": 2019.38,
+   "lastValue": "35.43153796",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 31.11111111,
+   "year": 2014.08,
+   "lastValue": "32.58426966",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.76923077,
+   "year": 2014.15,
+   "lastValue": "31.11111111",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 33.69565217,
+   "year": 2014.23,
+   "lastValue": "30.76923077",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 29.78723404,
+   "year": 2014.31,
+   "lastValue": "33.69565217",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.42105263,
+   "year": 2014.38,
+   "lastValue": "29.78723404",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 26.04166667,
+   "year": 2014.46,
+   "lastValue": "28.42105263",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 26.53061224,
+   "year": 2014.54,
+   "lastValue": "26.04166667",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 23.23232323,
+   "year": 2014.62,
+   "lastValue": "26.53061224",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 22,
+   "year": 2014.69,
+   "lastValue": "23.23232323",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 25.49019608,
+   "year": 2014.77,
+   "lastValue": "22",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 25.24271845,
+   "year": 2014.85,
+   "lastValue": "25.49019608",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 27.61904762,
+   "year": 2014.92,
+   "lastValue": "25.24271845",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.30188679,
+   "year": 2015.08,
+   "lastValue": "27.61904762",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 25.92592593,
+   "year": 2015.15,
+   "lastValue": "28.30188679",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 23.63636364,
+   "year": 2015.23,
+   "lastValue": "25.92592593",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 23.00884956,
+   "year": 2015.31,
+   "lastValue": "23.63636364",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 25,
+   "year": 2015.38,
+   "lastValue": "23.00884956",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 23.33333333,
+   "year": 2015.46,
+   "lastValue": "25",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 24.3902439,
+   "year": 2015.54,
+   "lastValue": "23.33333333",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 31.74603175,
+   "year": 2015.62,
+   "lastValue": "24.3902439",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 34.10852713,
+   "year": 2015.69,
+   "lastValue": "31.74603175",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 29.77099237,
+   "year": 2015.77,
+   "lastValue": "34.10852713",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 29.85074627,
+   "year": 2015.85,
+   "lastValue": "29.77099237",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 27.00729927,
+   "year": 2015.92,
+   "lastValue": "29.85074627",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.05755396,
+   "year": 2016.08,
+   "lastValue": "27.00729927",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.87323944,
+   "year": 2016.15,
+   "lastValue": "28.05755396",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.27586207,
+   "year": 2016.23,
+   "lastValue": "28.87323944",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 27.89115646,
+   "year": 2016.31,
+   "lastValue": "28.27586207",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 27.02702703,
+   "year": 2016.38,
+   "lastValue": "27.89115646",
+   "rank": 12,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 26.17449664,
+   "year": 2016.46,
+   "lastValue": "27.02702703",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 26.49006623,
+   "year": 2016.54,
+   "lastValue": "26.17449664",
+   "rank": 13,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 22.22222222,
+   "year": 2016.62,
+   "lastValue": "26.49006623",
+   "rank": 15,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 21.65605096,
+   "year": 2016.69,
+   "lastValue": "22.22222222",
+   "rank": 14,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 27.95031056,
+   "year": 2016.77,
+   "lastValue": "21.65605096",
+   "rank": 11,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.3030303,
+   "year": 2016.85,
+   "lastValue": "27.95031056",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.76923077,
+   "year": 2016.92,
+   "lastValue": "30.3030303",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.05780347,
+   "year": 2017.08,
+   "lastValue": "30.76923077",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.50847458,
+   "year": 2017.15,
+   "lastValue": "30.05780347",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 29.67032967,
+   "year": 2017.23,
+   "lastValue": "30.50847458",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.48128342,
+   "year": 2017.31,
+   "lastValue": "29.67032967",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 31.25,
+   "year": 2017.38,
+   "lastValue": "30.48128342",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 33.83838384,
+   "year": 2017.46,
+   "lastValue": "31.25",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 32.51231527,
+   "year": 2017.54,
+   "lastValue": "33.83838384",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.47619048,
+   "year": 2017.62,
+   "lastValue": "32.51231527",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 37.85046729,
+   "year": 2017.69,
+   "lastValue": "30.47619048",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 36.07305936,
+   "year": 2017.77,
+   "lastValue": "37.85046729",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 33.92857143,
+   "year": 2017.85,
+   "lastValue": "36.07305936",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 34.49781659,
+   "year": 2017.92,
+   "lastValue": "33.92857143",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 35.31914894,
+   "year": 2018.08,
+   "lastValue": "34.49781659",
+   "rank": 5,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 35,
+   "year": 2018.15,
+   "lastValue": "35.31914894",
+   "rank": 6,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 38.7755102,
+   "year": 2018.23,
+   "lastValue": "35",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 40.562249,
+   "year": 2018.31,
+   "lastValue": "38.7755102",
+   "rank": 4,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 42.68774704,
+   "year": 2018.38,
+   "lastValue": "40.562249",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 42.1875,
+   "year": 2018.46,
+   "lastValue": "42.68774704",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 41.92307692,
+   "year": 2018.54,
+   "lastValue": "42.1875",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 42.26415094,
+   "year": 2018.62,
+   "lastValue": "41.92307692",
+   "rank": 3,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 35.27272727,
+   "year": 2018.69,
+   "lastValue": "42.26415094",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 34.38596491,
+   "year": 2018.77,
+   "lastValue": "35.27272727",
+   "rank": 7,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 32.77027027,
+   "year": 2018.85,
+   "lastValue": "34.38596491",
+   "rank": 8,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 31.37254902,
+   "year": 2018.92,
+   "lastValue": "32.77027027",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 29.74683544,
+   "year": 2019.08,
+   "lastValue": "31.37254902",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 30.67484663,
+   "year": 2019.15,
+   "lastValue": "29.74683544",
+   "rank": 9,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 29.16666667,
+   "year": 2019.23,
+   "lastValue": "30.67484663",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.9017341,
+   "year": 2019.31,
+   "lastValue": "29.16666667",
+   "rank": 10,
+   "colour": "q"
+ },
+ {
+   "name": "Vietnam",
+   "value": 28.01120448,
+   "year": 2019.38,
+   "lastValue": "28.9017341",
+   "rank": 10,
+   "colour": "q"
+ }
+]
